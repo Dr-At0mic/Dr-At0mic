@@ -1,34 +1,34 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/shonen-title-dark.svg">
-  <img alt="Anime title card: Dr_Atomic. Speech bubble: “I don't just write code! I forge entire digital realms from scratch!”" src="./assets/shonen-title-light.svg" width="100%">
+  <img alt="Anime title card: Dr_Atomic. Speech bubble: “Zero hallucinations, unbreakable barriers&gt;.&lt;that is my developer way!”" src="./assets/shonen-title-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Dr_Atomic</b> — the more you try the more you will realize how deep the ocean is.......</p>
+<p align="center"><b>Dr_Atomic</b> — I don't just write code! I forge entire digital realms from scratch!</p>
 <p align="center"><a href="https://dr-at0mic.github.io/">dr-at0mic.github.io</a> &nbsp;·&nbsp; <a href="mailto:anandhu2suresh797@gmail.com">anandhu2suresh797@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/anandhu-suresh-9908ab19a/">LinkedIn</a></p>
 
 **Previously on @Dr-At0mic…** I craft digital realms from the ground up—from deep database dungeons and API ley lines to pixel-perfect UIs and neural algorithms. I summon multi-tenant SaaS architectures built for unstoppable speed, ironclad security, and absolute domain isolation. My AI summons don't hallucinate; they state their facts straight from the scrolls. No filler, just pure code execution.
 
-**Next episode:** README Templates
+**Next episode:** 🤔💭💭 Processing. 404 Brain Not Found
 
 #### Character sheet
 
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/shonen-sheet-dark.svg">
-  <img alt="Character sheet. Class: Full-Stack Arch-Mage. Rank C. Power level 1,632. STR (Contributions, last 12 months): 86; AGI (Active days): 21; END (Longest streak (days)): 4; INT (Languages wielded): 6; CHA (Stars earned): 24." src="./assets/shonen-sheet-light.svg" width="100%">
+  <img alt="Character sheet. Class: Full-Stack Arch-Mage. Rank C. Power level 1,761. STR (Contributions, last 12 months): 91; AGI (Active days): 21; END (Longest streak (days)): 4; INT (Languages wielded): 6; CHA (Stars earned): 28." src="./assets/shonen-sheet-light.svg" width="100%">
 </picture>
 </p>
 
 <details>
 <summary><sub>How these stats are computed</sub></summary>
 
-- **STR** — Contributions, last 12 months: 86
+- **STR** — Contributions, last 12 months: 91
 - **AGI** — Active days: 21
 - **END** — Longest streak (days): 4
 - **INT** — Languages wielded: 6
-- **CHA** — Stars earned: 24
+- **CHA** — Stars earned: 28
 - **Rank** — average of the five bars (S ≥ 85%, A ≥ 70%, B ≥ 50%, C ≥ 30%).
 - **Power level** — contributions×9 + stars×21 + followers×13 + active days×7 + longest streak×42. Scientifically meaningless. Spiritually accurate.
 
@@ -39,10 +39,12 @@
 #### Story arcs
 
 - **Arc 1 · [og-converter](https://github.com/Dr-At0mic/og-converter)** — The zero-click offline file converter for Windows (inspired by Tangerine for Mac).  
-  <sub>C# · ★ 22</sub>
-- **Arc 2 · [Breathe](https://github.com/Dr-At0mic/Breathe)**  
+  <sub>C# · ★ 24</sub>
+- **Arc 2 · [README-Templates](https://github.com/Dr-At0mic/README-Templates)** — Design a GitHub profile README, preview it exactly as GitHub renders it (light and dark), and publish it to your `username/username` repo  
+  <sub>JavaScript · ★ 2</sub>
+- **Arc 3 · [Breathe](https://github.com/Dr-At0mic/Breathe)**  
   <sub>Dart · ★ 2</sub>
-- **Arc 3 · [Dr-At0mic.github.io](https://github.com/Dr-At0mic/Dr-At0mic.github.io)**  
+- **Arc 4 · [Dr-At0mic.github.io](https://github.com/Dr-At0mic/Dr-At0mic.github.io)**  
   <sub>JavaScript</sub>
 
 <p align="center">
