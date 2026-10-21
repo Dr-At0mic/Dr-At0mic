@@ -7,7 +7,11 @@
 
 **Dr_Atomic** — the more you try the more you will realize how deep the ocean is.......
 
-[dr-at0mic.github.io](https://dr-at0mic.github.io/)
+I build software end to end — the database, the APIs, the web and mobile UI, the ML models and the deployment. Mostly that means multi-tenant SaaS that stays fast, secure and properly isolated, and AI features that cite their sources instead of making things up.
+
+**Now** — README Templates
+
+[dr-at0mic.github.io](https://dr-at0mic.github.io/) &nbsp;·&nbsp; [anandhu2suresh797@gmail.com](mailto:anandhu2suresh797@gmail.com) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/anandhu-suresh-9908ab19a/)
 
 #### Selected work
 
