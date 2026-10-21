@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" role="img" aria-label="To be continued">
+<style>
+.arrow{animation:enter .8s cubic-bezier(0.16, 1, 0.3, 1) .2s both}
+.trail{animation:trail .9s cubic-bezier(0.16, 1, 0.3, 1) .2s both}
+@keyframes enter{from{transform:translateX(560px)}}
+@keyframes trail{0%{opacity:0;transform:translateX(420px)}40%{opacity:.9}100%{opacity:0;transform:none}}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<text x="40" y="68" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="800" letter-spacing="2" fill="#5d5871">@DR-AT0MIC  ·  第一話  END</text>
+<g class="trail" opacity="0"><rect x="560" y="40" width="110" height="4" rx="2" fill="#16131f"/><rect x="584" y="58" width="90" height="4" rx="2" fill="#16131f"/><rect x="608" y="76" width="70" height="4" rx="2" fill="#16131f"/></g>
+<g class="arrow">
+  <polygon points="690,60 752,14 752,36 1162,36 1162,84 752,84 752,106" fill="#ffd60a" stroke="#16131f" stroke-width="4" stroke-linejoin="round"/>
+  <text x="958" y="71" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="30" letter-spacing="2" fill="#16131f">TO BE CONTINUED</text>
+</g>
+</svg>

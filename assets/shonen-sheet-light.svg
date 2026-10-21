@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="500" viewBox="0 0 1200 500" role="img" aria-label="Character sheet: class FULL-STACK ARCH-MAGE, rank C, power level 1,632. STR 86, AGI 21, END 4, INT 6, CHA 24">
+<style>
+.card{animation:rise .6s cubic-bezier(0.16, 1, 0.3, 1) both}
+.row{animation:rise .5s cubic-bezier(0.16, 1, 0.3, 1) both}
+.bar{transform-box:fill-box;transform-origin:left center;animation:grow .9s cubic-bezier(0.16, 1, 0.3, 1) both}
+.chip{animation:rise .45s cubic-bezier(0.34, 1.56, 0.64, 1) both}
+.stamp{transform-box:fill-box;transform-origin:center;animation:stamp .5s cubic-bezier(.2,.9,.3,1.25) 2.1s both}
+.sticker{transform-box:fill-box;transform-origin:center;animation:pop .5s cubic-bezier(0.34, 1.56, 0.64, 1) 2.5s both}
+.cls{animation:slide .6s cubic-bezier(0.16, 1, 0.3, 1) .25s both}
+@keyframes rise{from{opacity:0;transform:translateY(18px)}}
+@keyframes grow{from{transform:scaleX(0)}}
+@keyframes stamp{0%{opacity:0;transform:scale(2.6)}70%{opacity:1;transform:scale(.9)}100%{transform:scale(1)}}
+@keyframes pop{from{opacity:0;transform:scale(0) rotate(-30deg)}}
+@keyframes slide{from{opacity:0;transform:translateX(-40px)}}
+@keyframes r0{from{transform:translateY(858px)}}.d0{animation:r0 1.30s cubic-bezier(0.16, 1, 0.3, 1) .4s both}@keyframes r1{from{transform:translateY(1248px)}}.d1{animation:r1 1.48s cubic-bezier(0.16, 1, 0.3, 1) .4s both}@keyframes r2{from{transform:translateY(1794px)}}.d2{animation:r2 1.66s cubic-bezier(0.16, 1, 0.3, 1) .4s both}@keyframes r3{from{transform:translateY(1716px)}}.d3{animation:r3 1.84s cubic-bezier(0.16, 1, 0.3, 1) .4s both}
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<defs><clipPath id="d0"><rect x="62" y="262" width="46" height="82"/></clipPath><clipPath id="d1"><rect x="126" y="262" width="46" height="82"/></clipPath><clipPath id="d2"><rect x="170" y="262" width="46" height="82"/></clipPath><clipPath id="d3"><rect x="214" y="262" width="46" height="82"/></clipPath></defs>
+<g class="card">
+  <rect x="34" y="34" width="1142" height="442" rx="22" fill="#ff2e88" stroke="#16131f" stroke-width="4"/>
+  <rect x="22" y="22" width="1142" height="442" rx="22" fill="#fffdf8" stroke="#16131f" stroke-width="4"/>
+</g>
+<text x="64" y="84" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="22" letter-spacing="3" fill="#ff2e88">CHARACTER SHEET</text>
+<text x="292" y="83" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#5d5871">@Dr-At0mic</text>
+<line x1="64" y1="104" x2="1120" y2="104" stroke="#16131f" stroke-width="2" stroke-dasharray="2 8" stroke-linecap="round" opacity="0.5"/>
+
+<text x="64" y="146" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.5" fill="#5d5871">CLASS</text>
+<text class="cls" x="64" y="198" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="46" letter-spacing="1" fill="#16131f">FULL-STACK ARCH-MAGE</text>
+
+<text x="64" y="244" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.5" fill="#5d5871">POWER LEVEL</text>
+<g clip-path="url(#d0)"><g class="d0" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="72" fill="#16131f"><text x="85" y="-528" text-anchor="middle">0</text><text x="85" y="-450" text-anchor="middle">1</text><text x="85" y="-372" text-anchor="middle">2</text><text x="85" y="-294" text-anchor="middle">3</text><text x="85" y="-216" text-anchor="middle">4</text><text x="85" y="-138" text-anchor="middle">5</text><text x="85" y="-60" text-anchor="middle">6</text><text x="85" y="18" text-anchor="middle">7</text><text x="85" y="96" text-anchor="middle">8</text><text x="85" y="174" text-anchor="middle">9</text><text x="85" y="252" text-anchor="middle">0</text><text x="85" y="330" text-anchor="middle">1</text></g></g><text x="114" y="330" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="72" fill="#16131f">,</text><g clip-path="url(#d1)"><g class="d1" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="72" fill="#16131f"><text x="149" y="-918" text-anchor="middle">0</text><text x="149" y="-840" text-anchor="middle">1</text><text x="149" y="-762" text-anchor="middle">2</text><text x="149" y="-684" text-anchor="middle">3</text><text x="149" y="-606" text-anchor="middle">4</text><text x="149" y="-528" text-anchor="middle">5</text><text x="149" y="-450" text-anchor="middle">6</text><text x="149" y="-372" text-anchor="middle">7</text><text x="149" y="-294" text-anchor="middle">8</text><text x="149" y="-216" text-anchor="middle">9</text><text x="149" y="-138" text-anchor="middle">0</text><text x="149" y="-60" text-anchor="middle">1</text><text x="149" y="18" text-anchor="middle">2</text><text x="149" y="96" text-anchor="middle">3</text><text x="149" y="174" text-anchor="middle">4</text><text x="149" y="252" text-anchor="middle">5</text><text x="149" y="330" text-anchor="middle">6</text></g></g><g clip-path="url(#d2)"><g class="d2" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="72" fill="#16131f"><text x="193" y="-1464" text-anchor="middle">0</text><text x="193" y="-1386" text-anchor="middle">1</text><text x="193" y="-1308" text-anchor="middle">2</text><text x="193" y="-1230" text-anchor="middle">3</text><text x="193" y="-1152" text-anchor="middle">4</text><text x="193" y="-1074" text-anchor="middle">5</text><text x="193" y="-996" text-anchor="middle">6</text><text x="193" y="-918" text-anchor="middle">7</text><text x="193" y="-840" text-anchor="middle">8</text><text x="193" y="-762" text-anchor="middle">9</text><text x="193" y="-684" text-anchor="middle">0</text><text x="193" y="-606" text-anchor="middle">1</text><text x="193" y="-528" text-anchor="middle">2</text><text x="193" y="-450" text-anchor="middle">3</text><text x="193" y="-372" text-anchor="middle">4</text><text x="193" y="-294" text-anchor="middle">5</text><text x="193" y="-216" text-anchor="middle">6</text><text x="193" y="-138" text-anchor="middle">7</text><text x="193" y="-60" text-anchor="middle">8</text><text x="193" y="18" text-anchor="middle">9</text><text x="193" y="96" text-anchor="middle">0</text><text x="193" y="174" text-anchor="middle">1</text><text x="193" y="252" text-anchor="middle">2</text><text x="193" y="330" text-anchor="middle">3</text></g></g><g clip-path="url(#d3)"><g class="d3" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="72" fill="#16131f"><text x="237" y="-1386" text-anchor="middle">0</text><text x="237" y="-1308" text-anchor="middle">1</text><text x="237" y="-1230" text-anchor="middle">2</text><text x="237" y="-1152" text-anchor="middle">3</text><text x="237" y="-1074" text-anchor="middle">4</text><text x="237" y="-996" text-anchor="middle">5</text><text x="237" y="-918" text-anchor="middle">6</text><text x="237" y="-840" text-anchor="middle">7</text><text x="237" y="-762" text-anchor="middle">8</text><text x="237" y="-684" text-anchor="middle">9</text><text x="237" y="-606" text-anchor="middle">0</text><text x="237" y="-528" text-anchor="middle">1</text><text x="237" y="-450" text-anchor="middle">2</text><text x="237" y="-372" text-anchor="middle">3</text><text x="237" y="-294" text-anchor="middle">4</text><text x="237" y="-216" text-anchor="middle">5</text><text x="237" y="-138" text-anchor="middle">6</text><text x="237" y="-60" text-anchor="middle">7</text><text x="237" y="18" text-anchor="middle">8</text><text x="237" y="96" text-anchor="middle">9</text><text x="237" y="174" text-anchor="middle">0</text><text x="237" y="252" text-anchor="middle">1</text><text x="237" y="330" text-anchor="middle">2</text></g></g>
+
+
+<text x="64" y="388" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2.5" fill="#5d5871">AFFINITY</text>
+<g class="chip" style="animation-delay:1.60s"><rect x="64" y="402" width="53" height="36" rx="18" fill="#ff2e88" stroke="#16131f" stroke-width="3"/><text x="90.5" y="426" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#16131f">C#</text></g><g class="chip" style="animation-delay:1.72s"><rect x="127" y="402" width="72" height="36" rx="18" fill="#ffd60a" stroke="#16131f" stroke-width="3"/><text x="163" y="426" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#16131f">Dart</text></g><g class="chip" style="animation-delay:1.84s"><rect x="209" y="402" width="130" height="36" rx="18" fill="#00b8f0" stroke="#16131f" stroke-width="3"/><text x="274" y="426" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="800" fill="#16131f">TypeScript</text></g>
+
+<g class="row" style="animation-delay:0.50s">
+  <text x="620" y="168" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="26" letter-spacing="1" fill="#16131f">STR</text>
+  <text x="680" y="166" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#5d5871">Contributions, last 12 months</text>
+  <text x="1120" y="168" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="24" fill="#16131f">86</text>
+  <rect x="620" y="180" width="500" height="18" rx="9" fill="#f1e6d2" stroke="#16131f" stroke-width="3"/>
+  <rect class="bar" style="animation-delay:0.70s" x="620" y="180" width="269" height="18" rx="9" fill="#ff2e88" stroke="#16131f" stroke-width="3"/>
+</g>
+<g class="row" style="animation-delay:0.60s">
+  <text x="620" y="224" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="26" letter-spacing="1" fill="#16131f">AGI</text>
+  <text x="680" y="222" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#5d5871">Active days</text>
+  <text x="1120" y="224" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="24" fill="#16131f">21</text>
+  <rect x="620" y="236" width="500" height="18" rx="9" fill="#f1e6d2" stroke="#16131f" stroke-width="3"/>
+  <rect class="bar" style="animation-delay:0.82s" x="620" y="236" width="29" height="18" rx="9" fill="#ffd60a" stroke="#16131f" stroke-width="3"/>
+</g>
+<g class="row" style="animation-delay:0.70s">
+  <text x="620" y="280" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="26" letter-spacing="1" fill="#16131f">END</text>
+  <text x="680" y="278" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#5d5871">Longest streak (days)</text>
+  <text x="1120" y="280" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="24" fill="#16131f">4</text>
+  <rect x="620" y="292" width="500" height="18" rx="9" fill="#f1e6d2" stroke="#16131f" stroke-width="3"/>
+  <rect class="bar" style="animation-delay:0.94s" x="620" y="292" width="33" height="18" rx="9" fill="#00b8f0" stroke="#16131f" stroke-width="3"/>
+</g>
+<g class="row" style="animation-delay:0.80s">
+  <text x="620" y="336" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="26" letter-spacing="1" fill="#16131f">INT</text>
+  <text x="680" y="334" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#5d5871">Languages wielded</text>
+  <text x="1120" y="336" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="24" fill="#16131f">6</text>
+  <rect x="620" y="348" width="500" height="18" rx="9" fill="#f1e6d2" stroke="#16131f" stroke-width="3"/>
+  <rect class="bar" style="animation-delay:1.06s" x="620" y="348" width="375" height="18" rx="9" fill="#ff2e88" stroke="#16131f" stroke-width="3"/>
+</g>
+<g class="row" style="animation-delay:0.90s">
+  <text x="620" y="392" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="26" letter-spacing="1" fill="#16131f">CHA</text>
+  <text x="680" y="390" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" fill="#5d5871">Stars earned</text>
+  <text x="1120" y="392" text-anchor="end" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="24" fill="#16131f">24</text>
+  <rect x="620" y="404" width="500" height="18" rx="9" fill="#f1e6d2" stroke="#16131f" stroke-width="3"/>
+  <rect class="bar" style="animation-delay:1.18s" x="620" y="404" width="189" height="18" rx="9" fill="#ffd60a" stroke="#16131f" stroke-width="3"/>
+</g>
+
+<g transform="translate(1068 66) rotate(-14)"><g class="stamp">
+  <circle r="44" fill="#fffdf8" stroke="#ff2e88" stroke-width="6"/>
+  <circle r="35" fill="none" stroke="#ff2e88" stroke-width="2"/>
+  <text y="-14" text-anchor="middle" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="10" font-weight="900" letter-spacing="2" fill="#ff2e88">RANK</text>
+  <text y="26" text-anchor="middle" font-family="Impact, Haettenschweiler, 'Arial Narrow Bold', 'Arial Black', 'Franklin Gothic Heavy', sans-serif" font-size="44" fill="#ff2e88">C</text>
+</g></g>
+</svg>
